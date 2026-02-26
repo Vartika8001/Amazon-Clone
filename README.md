@@ -49,7 +49,7 @@ Special attention was given to **spacing, alignment, typography, and layout hier
 
 ## 🌐 Live Demo
 
-https://github.com/Vartika8001/Amazon-Clone.git
+https://vartika8001.github.io/Amazon-Clone/
 
 ---
 
