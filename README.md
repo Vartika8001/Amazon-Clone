@@ -68,5 +68,3 @@ Add project screenshots here to make the repository visually appealing.
 ---
 
 ⭐ If you found this project helpful, feel free to star the repository!
-<br>
-Create additional pages (product page, cart page)
