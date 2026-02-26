@@ -55,7 +55,7 @@ Special attention was given to **spacing, alignment, typography, and layout hier
 
 ## 📸 Screenshots
 
-![Amazon Clone](homepage.png)
+![Amazon Clone Homepage](images/homepage.png.png)
 
 ---
 
