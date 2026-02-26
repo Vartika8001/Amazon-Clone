@@ -11,26 +11,37 @@ Special attention was given to spacing, alignment, typography, and layout hierar
 🧩 Features
 
 Structured navigation bar with logo and search layout
+<br>
 Promotional banner section
+<br>
 Product category grid layout
+<br>
 Clean and organized footer section
+<br>
 Responsive layout design
+<br>
 Hover effects and styled buttons
 
 🛠️ Tech Stack
 
 HTML
+<br>
 CSS
 
 📚 What I Learned
 
 Structuring complex web pages using semantic HTML
+<br>
 Creating responsive and visually consistent layouts
+<br>
 Improving CSS positioning and styling techniques
+<br>
 Maintaining UI consistency across multiple sections
 
 📌 Future Improvements
 
 Add JavaScript for interactive features
+<br>
 Improve mobile responsiveness
+<br>
 Create additional pages (product page, cart page)
