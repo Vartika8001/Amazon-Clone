@@ -55,7 +55,7 @@ Special attention was given to **spacing, alignment, typography, and layout hier
 
 ## 📸 Screenshots
 
-Add project screenshots here to make the repository visually appealing.
+![Amazon Clone Homepage](images/homepage.png)
 
 ---
 
