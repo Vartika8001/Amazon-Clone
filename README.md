@@ -1,47 +1,72 @@
-# Amazon-Clone
-🛒 Amazon Homepage Clone
 
-A front-end clone of the Amazon homepage built using HTML and CSS. This project focuses on recreating the layout, structure, and visual styling of a real-world e-commerce platform while improving responsive design and UI development skills.
+# 🛒 Amazon Homepage Clone
 
-🚀 Project Overview
+A front-end clone of the Amazon homepage built using **HTML** and **CSS**.  
+This project focuses on recreating a real-world e-commerce layout while improving **UI structuring**, **responsive design**, and **styling consistency**.
 
-The objective of this project was to understand how large-scale e-commerce websites structure their interface and maintain visual consistency across multiple sections. The clone replicates key homepage components including navigation, search functionality layout, promotional banners, product categories, and footer sections.
-Special attention was given to spacing, alignment, typography, and layout hierarchy to closely match the look and feel of the original platform.
+---
 
-🧩 Features
+## 🚀 Project Overview
 
-Structured navigation bar with logo and search layout
-<br>
-Promotional banner section
-<br>
-Product category grid layout
-<br>
-Clean and organized footer section
-<br>
-Responsive layout design
-<br>
-Hover effects and styled buttons
+The goal of this project was to understand how large e-commerce platforms structure their interfaces and maintain visual consistency across multiple sections.
 
-🛠️ Tech Stack
+The clone recreates key components such as:
+- **Navigation bar with search layout**
+- **Promotional banners**
+- **Product category sections**
+- **Structured footer**
 
-HTML
-<br>
-CSS
+Special attention was given to **spacing, alignment, typography, and layout hierarchy**.
 
-📚 What I Learned
+---
 
-Structuring complex web pages using semantic HTML
-<br>
-Creating responsive and visually consistent layouts
-<br>
-Improving CSS positioning and styling techniques
-<br>
-Maintaining UI consistency across multiple sections
+## 🧩 Features
 
-📌 Future Improvements
+- ✅ Structured navigation bar  
+- ✅ Search section UI  
+- ✅ Product category grid  
+- ✅ Promotional banner layout  
+- ✅ Clean footer design  
+- ✅ Hover effects and styled buttons  
 
-Add JavaScript for interactive features
-<br>
-Improve mobile responsiveness
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+
+---
+
+## 📚 What I Learned
+
+- Structuring complex pages using **semantic HTML**
+- Creating **responsive and visually consistent layouts**
+- Improving **CSS positioning and styling**
+- Maintaining UI consistency across multiple sections
+
+---
+
+## 🌐 Live Demo
+
+👉 Add your GitHub Pages link here
+
+---
+
+## 📸 Screenshots
+
+Add project screenshots here to make the repository visually appealing.
+
+---
+
+## 📌 Future Improvements
+
+- Add **JavaScript interactivity**
+- Improve **mobile responsiveness**
+- Build additional pages (cart, product page)
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository!
 <br>
 Create additional pages (product page, cart page)
