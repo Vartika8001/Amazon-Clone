@@ -1,5 +1,36 @@
 # Amazon-Clone
-Built a front-end Amazon homepage clone using HTML and CSS to practice responsive layout design and real-world UI structuring. The project includes navigation, search bar, product sections, banners, and footer, with focus on alignment, spacing, and clean styling.
 🛒 Amazon Homepage Clone
 
 A front-end clone of the Amazon homepage built using HTML and CSS. This project focuses on recreating the layout, structure, and visual styling of a real-world e-commerce platform while improving responsive design and UI development skills.
+
+🚀 Project Overview
+
+The objective of this project was to understand how large-scale e-commerce websites structure their interface and maintain visual consistency across multiple sections. The clone replicates key homepage components including navigation, search functionality layout, promotional banners, product categories, and footer sections.
+Special attention was given to spacing, alignment, typography, and layout hierarchy to closely match the look and feel of the original platform.
+
+🧩 Features
+
+Structured navigation bar with logo and search layout
+Promotional banner section
+Product category grid layout
+Clean and organized footer section
+Responsive layout design
+Hover effects and styled buttons
+
+🛠️ Tech Stack
+
+HTML
+CSS
+
+📚 What I Learned
+
+Structuring complex web pages using semantic HTML
+Creating responsive and visually consistent layouts
+Improving CSS positioning and styling techniques
+Maintaining UI consistency across multiple sections
+
+📌 Future Improvements
+
+Add JavaScript for interactive features
+Improve mobile responsiveness
+Create additional pages (product page, cart page)
