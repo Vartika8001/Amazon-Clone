@@ -47,12 +47,6 @@ Special attention was given to **spacing, alignment, typography, and layout hier
 
 ---
 
-## 🌐 Live Demo
-
-https://vartika8001.github.io/Amazon-Clone/
-
----
-
 ## 📸 Screenshots
 
 <img src="images/homepage.png.png" width="300">
