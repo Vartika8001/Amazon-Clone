@@ -61,4 +61,4 @@ Special attention was given to **spacing, alignment, typography, and layout hier
 
 ---
 
-⭐ If you found this project helpful, feel free to star the repository!
+
